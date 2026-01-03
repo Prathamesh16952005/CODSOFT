@@ -21,8 +21,6 @@ A fully functional **Job Portal** web application where users can browse jobs, r
 
 ### Tech Stack
 - **Frontend:** React, HTML, CSS, JavaScript
-- **Backend:** Node.js, Express.js (if implemented)
-- **Database:** (Add if any, e.g., MongoDB)
 - **Tools:** Git, GitHub
 
 ---
@@ -40,8 +38,6 @@ An **Online Quiz Platform** where users can create and take quizzes. The platfor
 
 ### Tech Stack
 - **Frontend:** React, HTML, CSS, JavaScript
-- **Backend:** Node.js, Express.js (if implemented)
-- **Database:** (Add if any, e.g., MongoDB)
 - **Tools:** Git, GitHub
 
 ---
